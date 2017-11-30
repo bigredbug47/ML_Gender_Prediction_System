@@ -1,0 +1,2 @@
+Mean squared error: 0.10
+Variance score: 0.61

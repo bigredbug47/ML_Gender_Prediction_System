@@ -1,0 +1,12 @@
+SVC Kernel linear :
+Mean squared error: 0.03
+Variance score: 0.87
+SVC Kernel rbf :
+Mean squared error: 0.03
+Variance score: 0.87
+SVC Kernel sigmoid :
+Mean squared error: 0.06
+Variance score: 0.74
+NuSVC Kernel :
+Mean squared error: 0.03
+Variance score: 0.87
